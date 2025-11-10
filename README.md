@@ -3,7 +3,6 @@
 Author: Diksha Gole
 Roll No: BSc23DS46
 Course: BSc Data Science (Third Year)
-Year: 2025
 
 🎯 Project Objective
 
